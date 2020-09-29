@@ -13,3 +13,7 @@ Major References Building this pipeline is :
 6. https://www.youtube.com/watch?v=XoTwndOgXBM
 
 7.https://www.youtube.com/watch?v=3ecNC-So0r4 
+
+8. https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48
+
+9. https://github.com/gauravtheP/Netflix-Movie-Recommendation-System
